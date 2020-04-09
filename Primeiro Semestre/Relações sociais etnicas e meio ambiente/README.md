@@ -13,3 +13,4 @@ Despertar o interesse do discente para as questões sócio-econômico-ambientais
 ## Objetivos Específicos:
 
 Estuda a importância das questões ambientais e as relações étnicos raciais e sua aplicabilidade no cotidiano.
+
