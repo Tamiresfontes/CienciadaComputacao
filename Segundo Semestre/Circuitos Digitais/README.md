@@ -13,4 +13,3 @@ Proporcionar conhecimentos introdutórios e essenciais de teoria e prática em s
 ## Objetivos específicos:
 
 Proporcionar conhecimentos a respeito de portas lógicas, circuitos lógicos, álgebra booleana e diversos dispositivos de sistemas digitais.
-
