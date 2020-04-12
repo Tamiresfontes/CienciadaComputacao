@@ -1,6 +1,6 @@
 # Fundamentos de física para a computação
 
-Carga horária: 60
+Carga Horária: 60
 
 ## Ementa:
 

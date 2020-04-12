@@ -1,6 +1,6 @@
 # Probabilidade e Estatística
 
-Carga horária: 40
+Carga Horária: 40
 
 ## Ementa:
 

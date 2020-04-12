@@ -1,6 +1,6 @@
 # Banco de Dados
 
-Carga horária: 80
+Carga Horária: 80
 
 ## Ementa:
 

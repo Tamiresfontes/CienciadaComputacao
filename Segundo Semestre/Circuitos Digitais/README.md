@@ -1,6 +1,6 @@
 # Circuitos Digitais
 
-Carga horária: 40
+Carga Horária: 40
 
 ## Ementa: 
 

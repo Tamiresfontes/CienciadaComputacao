@@ -1,6 +1,6 @@
 # Estruturas de Dados e Algoritmos
 
-Carga horária: 80
+Carga Horária: 80
 
 ## Ementa:
 

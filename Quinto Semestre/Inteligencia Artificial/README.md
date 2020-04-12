@@ -1,6 +1,6 @@
 # Inteligência Artificial
 
-Carga horária: 60
+Carga Horária: 60
 
 ## Ementa:
 

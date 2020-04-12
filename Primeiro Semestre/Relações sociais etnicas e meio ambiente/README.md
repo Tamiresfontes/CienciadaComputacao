@@ -1,6 +1,6 @@
 # Relações sociais étnicas e meio ambiente
 
-Carga horária: 20
+Carga Horária: 20
 
 ## Ementa:
 

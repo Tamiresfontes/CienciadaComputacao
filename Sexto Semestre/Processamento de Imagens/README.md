@@ -1,6 +1,6 @@
 # Processamento de Imagens
 
-Carga horária: 80
+Carga Horária: 80
 
 ## Ementa:
 
