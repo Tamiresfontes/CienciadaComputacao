@@ -11,3 +11,5 @@ Fornecer orientação sobre a futura atuação profissional, e também sobre as 
 
 ## Objetivos específicos: 
 Compreender as diversas áreas de atuação profissional dentro de Ciência da Computação. Compreender as diversas áreas de pesquisa dentro de Ciência da Computação; As formações e títulos específicos bem como as certificações disponíveis na área. Apresentar as diferenças entre hardware e software bem como as diversas tecnologias disponíveis em cada uma. Apresentação e aplicação de ferramentas assistivas de uso colaborativo e em nuvem. Introdução e Aplicação de Algoritmos.
+
+Link do curso: [UNIFEG](https://www.unifeg.edu.br/webacademico/site/programacurso.jsp?codigogradedisciplina=27824&codigocurso=101&codigogradeperiodo=3175)
