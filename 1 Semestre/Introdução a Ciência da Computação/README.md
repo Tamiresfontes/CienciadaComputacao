@@ -2,8 +2,6 @@
 
 Carga Horária: 60
 
-## Ementa
-
 **Conceitos Básicos:** Histórico e visão geral de Computação como ciência. Visão geral do curso de Ciência da Computação no Brasil: Engenharia de Computação, Ciência da Computação, Sistemas de Informação e Licenciatura em Computação. Sistemas componentes de um computador: hardware e software. Noções de Algoritmo (representação da informação no computador) e linguagem de programação (tradução de meta-linguagens para linguagem de máquina). Explanação de áreas da ciência da computação: Teoria da Computação e Algoritmos, Engenharia de Software, Banco de Dados, Redes de Computadores, Engenharia de Computadores, Inteligência Artificial, Interfaces Homem-Máquina.
 
 ## Objetivo Gerais:
